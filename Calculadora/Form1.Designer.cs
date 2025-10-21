@@ -22,7 +22,7 @@ namespace Calculadora
         // También conecta los eventos Click con los handlers del código (Digit_Click, Oper_Click, etc.).
         private void InitializeComponent()
         {
-            // ======= Declaración/instanciación de controles =======
+            // ======= Declaración de controles =======
             button1 = new Button();
             button2 = new Button();
             button3 = new Button();
